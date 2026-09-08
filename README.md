@@ -1,4 +1,4 @@
-# SO2Homework2
+# distributed-log-aggregator
 Il sistema si basa su un'architettura Client/Server multi-processo o multi-thread per la gestione del log di produzione.
 Ruolo:
 - produttori (client): inviano messaggi contenenti dati numerici e un identificativo univoco;
